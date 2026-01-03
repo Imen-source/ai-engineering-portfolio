@@ -1,0 +1,12 @@
+# Datasets
+pytorch/data/
+*.tar.gz
+
+# Models
+*.pt
+*.pth
+*.safetensors
+
+# Colab / cache
+__pycache__/
+.ipynb_checkpoints/
